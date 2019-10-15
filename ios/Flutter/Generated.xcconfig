@@ -1,7 +1,7 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/renaldi/Development/flutter
-FLUTTER_APPLICATION_PATH=/Users/renaldi/Android/tab_bar
-FLUTTER_TARGET=/Users/renaldi/Android/tab_bar/lib/main.dart
+FLUTTER_APPLICATION_PATH=/Users/renaldi/Flutter/jdih-apps
+FLUTTER_TARGET=/Users/renaldi/Flutter/jdih-apps/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_FRAMEWORK_DIR=/Users/renaldi/Development/flutter/bin/cache/artifacts/engine/ios
