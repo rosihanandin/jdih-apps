@@ -1,4 +1,4 @@
-dih-apps
+jdih-apps
 
 JDIH Aplikasi
 
