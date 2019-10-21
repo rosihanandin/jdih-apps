@@ -1,0 +1,4 @@
+#Thu Oct 17 14:20:09 ICT 2019
+base.0=D\:\\AndroidStudio\\Projects\\gitjdih-apps\\jdih-apps\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
